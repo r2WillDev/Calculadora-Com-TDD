@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arthu\\source\\repos\\NewTalents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C5378-2FCD-4185-A4B8-AAB226E809AF}|NewTalents\\NewTalents.csproj|c:\\users\\arthu\\source\\repos\\newtalents\\newtalents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5C5378-2FCD-4185-A4B8-AAB226E809AF}|NewTalents\\NewTalents.csproj|solutionrelative:newtalents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ABB11-AB06-41AE-835F-6B1CE38D915F}|TestNewTalents\\TestNewTalents.csproj|c:\\users\\arthu\\source\\repos\\newtalents\\testnewtalents\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ABB11-AB06-41AE-835F-6B1CE38D915F}|TestNewTalents\\TestNewTalents.csproj|solutionrelative:testnewtalents\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C5378-2FCD-4185-A4B8-AAB226E809AF}|NewTalents\\NewTalents.csproj|c:\\users\\arthu\\source\\repos\\newtalents\\newtalents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5C5378-2FCD-4185-A4B8-AAB226E809AF}|NewTalents\\NewTalents.csproj|solutionrelative:newtalents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ABB11-AB06-41AE-835F-6B1CE38D915F}|TestNewTalents\\TestNewTalents.csproj|c:\\users\\arthu\\source\\repos\\newtalents\\testnewtalents\\testnewtalents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{033ABB11-AB06-41AE-835F-6B1CE38D915F}|TestNewTalents\\TestNewTalents.csproj|solutionrelative:testnewtalents\\testnewtalents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C5378-2FCD-4185-A4B8-AAB226E809AF}|NewTalents\\NewTalents.csproj|c:\\users\\arthu\\source\\repos\\newtalents\\newtalents\\newtalents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F5C5378-2FCD-4185-A4B8-AAB226E809AF}|NewTalents\\NewTalents.csproj|solutionrelative:newtalents\\newtalents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestNewTalents.csproj",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\NewTalents\\TestNewTalents\\TestNewTalents.csproj",
+              "RelativeDocumentMoniker": "TestNewTalents\\TestNewTalents.csproj",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\NewTalents\\TestNewTalents\\TestNewTalents.csproj",
+              "RelativeToolTip": "TestNewTalents\\TestNewTalents.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T20:02:06.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\NewTalents\\NewTalents\\Calculadora.cs",
+              "RelativeDocumentMoniker": "NewTalents\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\NewTalents\\NewTalents\\Calculadora.cs",
+              "RelativeToolTip": "NewTalents\\Calculadora.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAiwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:01:18.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\NewTalents\\TestNewTalents\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestNewTalents\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\NewTalents\\TestNewTalents\\UnitTest1.cs",
+              "RelativeToolTip": "TestNewTalents\\UnitTest1.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswFgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T19:59:46.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewTalents.csproj",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\NewTalents\\NewTalents\\NewTalents.csproj",
+              "RelativeDocumentMoniker": "NewTalents\\NewTalents.csproj",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\NewTalents\\NewTalents\\NewTalents.csproj",
+              "RelativeToolTip": "NewTalents\\NewTalents.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T19:57:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\NewTalents\\NewTalents\\Program.cs",
+              "RelativeDocumentMoniker": "NewTalents\\Program.cs",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\NewTalents\\NewTalents\\Program.cs",
+              "RelativeToolTip": "NewTalents\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T19:56:40.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
